@@ -5,4 +5,5 @@ con git add y un commit para actualizar el repositorio
 Pueden colaborar muchas personas
 
 Se crearon archivos y directorio para una hoja de estilo. Cambio de las 1817pm
-Ultimo cambio debido a prueba ser ejecuto a las 1819pm
+
+Se agrego un cambio a las 1826pm. se ocupo git checkout para regresar a una version que no existio a las 1819pm
