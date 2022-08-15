@@ -3,3 +3,5 @@ Historial de comandos a ocupar en toda la fase del desarrollo de un sistema
 Se completo prueba con git rm --cached para borrar de memoria el archivo trabajando y luego se volvio a agregar
 con git add y un commit para actualizar el repositorio
 Pueden colaborar muchas personas
+
+Se crearon archivos y directorio para una hoja de estilo. Cambio de las 1817pm
